@@ -9,11 +9,9 @@ function App() {
 
         <header className="App-header">
           <div className="Logo"><p>UX of XR</p></div>
-          <div className="Header-one">
-            <p>
-              Extended reality shapes our perception and therefore how we see the world 
-            </p>
-          </div>
+          <headerone> Extended reality shapes our perception and therefore how we see the world  </headerone>
+          <br></br>
+          <headertwo>Extended reality shapes our perception and therefore how we see the world  </headertwo>
         </header>
       </div>
      

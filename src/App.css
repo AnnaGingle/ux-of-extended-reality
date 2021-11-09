@@ -7,7 +7,7 @@ background: linear-gradient(34deg, rgba(222,210,232,1) 2%, rgba(210,226,217,1) 6
 
 .App-header {
   min-height: 788px;
-
+  line-height: 38px;
 
 }
 .Logo {
@@ -19,6 +19,7 @@ background: linear-gradient(34deg, rgba(222,210,232,1) 2%, rgba(210,226,217,1) 6
   align-items: left;
   /* Moves content up, down, center, etc */
   justify-content: left;
+  padding-bottom: 24px;
 }
 
 .App-link {
